@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yahya!
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on exciting new projects
+- 👀 I’m interested in almost everything (im not kidding)
+- 🌱 Currently learning react, PHP and how to manage projects and teams.
+- 💞️ I’m looking to get to know people who I can learn from.
 - 📫 How to reach me: Just send me a message
