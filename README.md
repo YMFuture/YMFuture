@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yahya! If that's hard to pronounce, call me Yaa-Yaa ;)
+- 👋 Hi, I’m Yahya!
 - 👀 I’m interested in almost everything (im not kidding)
 - 🌱 Currently learning react, PHP and how to manage projects and teams.
 - 💞️ I’m looking to get to know people who I can learn from.
